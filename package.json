@@ -1,0 +1,13 @@
+{
+  "name": "tunnel-server",
+  "version": "1.0.0",
+  "description": "A simple TCP tunnel for Web of Things devices",
+  "main": "index.js",
+  "author": "Apoorva Singh",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "redis": "^3.1.2"
+  }
+}
